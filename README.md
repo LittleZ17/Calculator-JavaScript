@@ -13,6 +13,4 @@
 
 
 ## DONE
-
-
-
+<img width="413" alt="Calculator JS" src="https://user-images.githubusercontent.com/113552534/218310526-d034490e-219b-4fe4-ad2c-43d2b611bb06.png">
